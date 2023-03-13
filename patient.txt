@@ -1,0 +1,6 @@
+vemana|b+|26|456789123|covid|r g nagar|2022:07:16 - 11:14:19
+rakshith |b+|20|846220037|covid|wilson garden|2022:07:17 - 17:29:58
+shailendra|b-|20|846239987|covid|madiwala|2022:07:17 - 17:30:54
+pavan|o+|20|846226384|covid|kormangala|2022:07:17 - 17:31:21
+tarun|o-|20|846224527|covid|s g palya|2022:07:17 - 17:32:00
+rakshith|b+|20|6789012345|covid|bangalore|2022:07:20 - 14:50:37
